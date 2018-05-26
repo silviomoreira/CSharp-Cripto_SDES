@@ -1,0 +1,9 @@
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\bin\Debug\Cripto_SDES.exe.config
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\obj\Debug\Cripto_SDES.csprojResolveAssemblyReference.cache
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\obj\Debug\Cripto_SDES.frmEntradaDados.resources
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\obj\Debug\Cripto_SDES.Properties.Resources.resources
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\obj\Debug\Cripto_SDES.csproj.GenerateResource.Cache
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\bin\Debug\Cripto_SDES.exe
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\bin\Debug\Cripto_SDES.pdb
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\obj\Debug\Cripto_SDES.exe
+C:\Users\Silvio\Desktop\Unifor\2018\Redes II\TrabalhoNP2\Criptografia_S-DES\Cripto_SDES\Cripto_SDES\obj\Debug\Cripto_SDES.pdb
